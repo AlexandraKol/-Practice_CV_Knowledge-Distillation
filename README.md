@@ -4,4 +4,5 @@
 
 ## Для запуска Docker
 `docker build -t train_distil_model .`
+
 `docker run -it -t train_model`
